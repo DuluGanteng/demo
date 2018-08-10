@@ -1,2 +1,2 @@
-# demo
-repository untuk belajar git
+# Demo Page 
+repository ini hanya untuk belajar git
